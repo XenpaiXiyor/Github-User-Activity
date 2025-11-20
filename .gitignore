@@ -1,0 +1,36 @@
+# ========================
+# 📦 Dependencies
+# ========================
+# The most important one!
+node_modules/
+
+# ========================
+# 🔐 Security & Secrets
+# ========================
+# NEVER commit your API keys or tokens
+.env
+.env.local
+config.js  # (Optional: If you put keys in a JS file instead of .env)
+
+# ========================
+# 📝 Logs & Runtime
+# ========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# ========================
+# 💻 System & Editor
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ========================
+# 🧪 Testing / Output
+# ========================
+# If your script saves JSON data to a file, ignore it so git stays clean
+# (Uncomment the line below if you generate data files)
+# output.json
