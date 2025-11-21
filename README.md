@@ -1,4 +1,4 @@
-# GitHub User Activity CLI
+# [GitHub User Activity CLI](https://github.com/XenpaiXiyor/Github-User-Activity)
 
 A simple command-line interface (CLI) tool to fetch and display the recent activity of a GitHub user. This project interacts with the GitHub API to retrieve events (commits, stars, opened issues, etc.) and displays them in a readable format.
 
