@@ -48,7 +48,7 @@ async function fetchActivity() {
   let data = await response.json(); // parse reponse in JSON
 
   console.log("\n\nTHE ACTUAL DATA STARTS FROM HERE\n");
-  
+
   if (data.length === 0) {
     console.log("No recent activity found.");
     return; // Stop the function
