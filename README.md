@@ -24,3 +24,16 @@ A simple command-line interface (CLI) tool to fetch and display the recent activ
 
 ```bash
 node index.js <username>
+```
+
+## Project Source
+
+This project is based on the [roadmap.sh Task Tracker project](https://roadmap.sh/projects/github-user-activity).
+
+## Author
+
+Rhythm Mittal
+
+## License
+
+This project is open source and available for educational purposes.
